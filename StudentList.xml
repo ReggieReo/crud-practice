@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<studentlist>
+    <student>
+        <name>Real</name>
+        <idnumber>65105459</idnumber>
+        <contactnumber>023456789</contactnumber>
+    </student>
+    <student>
+        <name>ReoReggie</name>
+        <idnumber>12345678</idnumber>
+        <contactnumber>023456789</contactnumber>
+    </student>
+    <student>
+        <name>ReoRea</name>
+        <idnumber>12245678</idnumber>
+        <contactnumber>0956691244</contactnumber>
+    </student>
+</studentlist>
